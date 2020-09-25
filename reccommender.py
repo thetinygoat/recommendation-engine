@@ -86,6 +86,5 @@ for element in sorted_similar_movies:
         break
 
 
-# %%
 
 
